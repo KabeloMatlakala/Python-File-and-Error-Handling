@@ -16,7 +16,7 @@ This project is a Python-based file read and write challenge that allows you to 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com//KabeloMatlakala/Week-4-File-and-Error-Handling.git
+    git clone https://github.com//KabeloMatlakala/Python-File-and-Error-Handling.git
     ```
 
 2. Navigate to the project directory:
@@ -55,7 +55,7 @@ The program will ask you to:
         3. Exit
         Enter your choice (1/2/3): 2
         
-        Enter the input filename: C:\\Documents\\PLP\\Week-4-File-and-Error-Handling\\input.txt
+        Enter the input filename: C:\\Documents\\...\\File-and-Error-Handling\\input.txt
         
         Choose a modification:
         1. Convert to UPPERCASE
