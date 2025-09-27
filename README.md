@@ -21,7 +21,7 @@ This project is a Python-based file read and write challenge that allows you to 
 
 2. Navigate to the project directory:
    ```bash  
-   cd your-repository-name
+   cd Python-File-and-Error-Handling
    ```
 
 3. Make sure you have Python installed. You can check this by running:
